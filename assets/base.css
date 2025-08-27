@@ -4269,5 +4269,5 @@ text-component {
 
 
 aside.announcement-bar{
-  background-color: rgb(153, 255, 0);
+  border: #000 2px solid;
 }
